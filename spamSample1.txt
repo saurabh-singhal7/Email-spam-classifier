@@ -1,0 +1,52 @@
+Hello Saurabh,
+ 
+I am Charmaine, an Executive Technical Recruiter with Pyramid Consulting, Inc. a leading staffing organization. I came across your profile on one of the job boards and feel that your skills and professional experience would fit a position with one of our premier clients. Please review the job description below. If you are interested in this position please forward your updated resume for immediate consideration and preferred time to discuss this opportunity further
+  
+Title: Systems Engineer V
+Duration: 12 months with a strong chance of extension
+Location:  Sunnyvale, CA 
+
+Job Description: 
+Writing C/C++ System Level tests targeting the CPU/DSP/CNN cores in CPP.
+Writing C/C++ Performance and Power system-level use-cases.
+Work on FPGA and Emulation scripts and flows for system validation, to increase productivity across the team.
+Work on post-silicon bringup and flows.
+Work closely with Algorithm engineers, DV engineers, Architects and Designers to come up with system level use-case scenarios.
+Work closely with Design Verification to enhance and augment verification for IPs on FPGA and/or Emulation platforms.
+Work closely with Firmware, Reference Modeling, and Software engineers to assist software development and debug.
+Day-to-day: 
+Automating test regressions and test suites to verify platform stability. 
+Bring up hardware platforms. debug test failures.
+3 must-haves:
+Scripting languages, Python or TCL
+C/C++
+Design verification (system verilog)
+Nice-to have:
+FPGA
+emulation experience
+HAPS or ZEBU
+Palladium
+AXI interface
+Education/Experience:
+Bachelor's degree in computer science, software engineering or relevant field required.
+
+Thank you!
+ 
+Charmaine Luna
+Pyramid Consulting, Inc.
+Executive – Resourcing
+
+M: 770.283.8442. E: Charmaine.Luna@pyramidci.com  Web: www.pyramidci.com
+
+Pyramid has a new Global Headquarters!
+3060 Kimball Bridge Rd., Suite 200, Alpharetta, GA 30022
+
+“How am I doing? My goal is to provide you with excellent service. If you have questions, suggestions, feedback about your experience, or need to escalate an issue or unsubscribe, feel free to reach out to my manager- Arpit Arora at FeedbackSFO@pyramidci.com”
+ 
+ 
+
+You have received this message because either you have contacted our Company to express interest in employment, or you have posted your Resume in an area accessible to recruiters or HR professionals, which implies an interest in being contacted regarding employment opportunities.
+
+If you would prefer to no longer receive any emails whatsoever from our Company, you may opt out at anytime by clicking here.
+
+Lookup Candidate
